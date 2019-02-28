@@ -1,0 +1,9 @@
+.contacts h1 a {
+    display: block;
+    text-decoration: none;
+    color: tomato;
+}
+
+.contacts h1 a:hover {
+    color: #bc581e;
+}

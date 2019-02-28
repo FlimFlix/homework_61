@@ -1,0 +1,9 @@
+.about h1 a {
+    display: block;
+    text-decoration: none;
+    color: #03a9f4;
+}
+
+.about h1 a:hover {
+    color: #9c27b0;
+}
